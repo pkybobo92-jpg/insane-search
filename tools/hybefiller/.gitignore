@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+original/
+pdfs/
+analysis/
+outputs/
+*.audit.jsonl
+*.review.csv
+reviewed_values*.json
+graphify-out/
+.env
+.env.*
+!.env.example
